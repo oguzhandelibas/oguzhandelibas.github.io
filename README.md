@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://oguzhandelibas.github.io/" target="_blank">oguzhandelibas</a>
+  <a href="https://oguzhandelibas.github.io/portfolio" target="_blank">oguzhandelibas</a>
 </h2>
 
 
