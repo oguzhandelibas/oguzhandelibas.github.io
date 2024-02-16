@@ -1,5 +1,5 @@
 {
-  "homepage": "https://oguzhandelibas.github.io/#",
+  "homepage": "https://oguzhandelibas.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
