@@ -36,7 +36,7 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Router basename={process.env.PUBLIC_URL}/>
-          <Route path="/portfolio" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
